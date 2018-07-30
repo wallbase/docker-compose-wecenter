@@ -1,0 +1,1 @@
+a:2:{s:26:"aws_offical_external_class";s:87:"/Users/huangzhijie/Desktop/source/plugins/aws_offical_external/aws_offical_external.php";s:18:"aws_external_class";s:71:"/Users/huangzhijie/Desktop/source/plugins/aws_external/aws_external.php";}

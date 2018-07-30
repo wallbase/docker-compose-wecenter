@@ -1,0 +1,10 @@
+version: '3'
+services:
+  nginx-php-fpm:
+    image: richarvey/nginx-php-fpm
+    volumes:
+      - "./WeCenter_3-2-1:/var/www/html"
+    ports:
+      - "80:80"
+    environment:
+      - TZ='Asia/Shanghai'
